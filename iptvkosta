@@ -1,0 +1,111 @@
+#EXTM3U
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID="TV1.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428036_ico.png" group-title="MY",TV1
+https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID="TV2.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428037_ico.png" group-title="MY",TV2
+https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID="TV3.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428038_ico.png" group-title="MY",TV3
+https://fvtv2.mywire.org/streams/dailymotion/ch_tv3.m3u8|Referer=https://www.dailymotion.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID="TV7.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428039_ico.png" group-title="MY",NTV 7
+https://fvtv2.mywire.org/streams/dailymotion/ch_ntv7.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID="8TV.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428040_ico.png" group-title="MY",8TV
+https://fvtv2.mywire.org/streams/dailymotion/ch_8tv.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID="TV9.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tv9.png" group-title="MY",TV9
+https://fvtv2.mywire.org/streams/dailymotion/ch_tv9.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID="dramasangat.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/drama%20sangat.png" group-title="MY",DRAMA SANGAT
+https://fvtv2.mywire.org/streams/dailymotion/ch_ds.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID="Oky.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/okey.png" group-title="MY",OKEY
+https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="MY| TV1" tvg-logo="http://vodpictures.ddns.net/picons/logos/tv1.png" group-title="Test 2",MY| TV1
+http://line.yo-ott.com:8000/167d10c8c2/50cda00648/390963
+#EXTINF:-1 tvg-id="" tvg-name="MY| TV2" tvg-logo="http://vodpictures.ddns.net/picons/logos/tv2.png" group-title="Test 2",MY| TV2
+http://line.yo-ott.com:8000/167d10c8c2/50cda00648/390962
+#EXTINF:-1 tvg-id="" tvg-name="MY| TV3" tvg-logo="http://vodpictures.ddns.net/picons/logos/tv3.png" group-title="Test 2",MY| TV3
+http://line.yo-ott.com:8000/167d10c8c2/50cda00648/390961
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO RIA HD" tvg-logo="http://vodpictures.ddns.net/picons/logos/ASTRO-RIA-HD.png" group-title="Test 2",MY| ASTRO RIA HD
+http://line.yo-ott.com:8000/167d10c8c2/50cda00648/391068
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO PRIMA HD" tvg-logo="http://vodpictures.ddns.net/picons/logos/ASTRO-PRIMA.png" group-title="Test 2",MY| ASTRO PRIMA HD
+http://line.yo-ott.com:8000/167d10c8c2/50cda00648/391071
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO OASIS HD" tvg-logo="http://vodpictures.ddns.net/picons/logos/ASTRO-OASIS-HD.png" group-title="Test 2",MY| ASTRO OASIS HD
+http://line.yo-ott.com:8000/167d10c8c2/50cda00648/391073
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO WARNA HD" tvg-logo="http://vodpictures.ddns.net/picons/logos/ASTRO-WARNA-HD.png" group-title="Test 2",MY| ASTRO WARNA HD
+http://line.yo-ott.com:8000/167d10c8c2/50cda00648/391058
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO NAURA HD" tvg-logo="http://vodpictures.ddns.net/picons/logos/ASTRO-NAURA.png" group-title="Test 2",MY| ASTRO NAURA HD
+http://line.yo-ott.com:8000/167d10c8c2/50cda00648/391074
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO RANIA HD" tvg-logo="http://vodpictures.ddns.net/picons/logos/ASTRO-RANIA.png" group-title="Test 2",MY| ASTRO RANIA HD
+http://line.yo-ott.com:8000/167d10c8c2/50cda00648/391069
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO AURA HD" tvg-logo="http://vodpictures.ddns.net/picons/logos/ASTRO-AURA.png" group-title="Test 2",MY| ASTRO AURA HD
+http://line.yo-ott.com:8000/167d10c8c2/50cda00648/391085
+#EXTINF:-1 tvg-id="" tvg-name="MY| TV-ALHIJRAH" tvg-logo="http://vodpictures.ddns.net/picons/logos/TV-ALHIJRA.png" group-title="Test 2",MY| TV-ALHIJRAH
+http://line.yo-ott.com:8000/167d10c8c2/50cda00648/390964
+
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO AWANI HD" tvg-logo="http://vodpictures.ddns.net/picons/logos/ASTRO-AWANI.png" group-title="Test 2",MY| ASTRO AWANI HD
+http://line.yo-ott.com:8000/167d10c8c2/50cda00648/391084
+#EXTINF:-1 tvg-id="" tvg-name="MY| BERNAMA NEWS" tvg-logo="http://vodpictures.ddns.net/picons/logos/BERNAMA-TV.png" group-title="Test 2",MY| BERNAMA NEWS
+http://line.yo-ott.com:8000/167d10c8c2/50cda00648/391048
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID="Awa.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428094_ico.png" group-title="Malaysia",AWANI (BACKUP)
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+
+#EXTINF:-1 tvg-id="Cer.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png" group-title="Malaysia",Astro Ceria (BACKUP)
+http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
+ 
+#EXTINF:-1 tvg-id="Pri.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_300.png" group-title="Malaysia",Astro Prima (BACKUP)
+http://ts.lemmovie.com/30194138-4d0c-4243-9438-21fd15a7216b.m3u8
+ 
+#EXTINF:-1 tvg-id="Ria.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/124_300.png" group-title="Malaysia",Astro Ria (BACKUP)
+http://ts.lemmovie.com/0d98a346-7dc3-46ac-93b8-62a4b1e2c578.m3u8
+ 
+#EXTINF:-1 tvg-id="War.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png" group-title="Malaysia",Astro Warna (BACKUP)
+http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
+ 
+#EXTINF:-1 tvg-id="Boo.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png" group-title="Malaysia",Astro Boo (BACKUP)
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="57" tvg-id="astrocitra" group-title="Malaysia" tvg-logo="https://iptvthai.my.to/logo/Astro-Citra-HD.png?rev=8",Astro Citra (BACKUP)
+http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Oas.MY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Astro_Oasis_2019.png/revision/latest/scale-to-width-down/200?cb=20190111152636" group-title="Malaysia", Astro Oasis (BACKUP)
+http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay (macrolanguage)" tvg-logo="https://yt3.ggpht.com/a/AATXAJzd2RPKopBOqInaP7TGFkpOzRgbwaApn81UBA" tvg-country="MY" tvg-url="" group-title="Malaysia",Pertiwi TV (BACKUP)
+https://mn-nl.mncdn.com/pertiwitv/pertiwitv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="80" tvg-id="astroria" group-title="Malaysia" tvg-logo="https://iptvthai.my.to/logo/Astro_Ria_HD.png?rev=8",Astro Ria Backup (BACKUP)
+http://ts.lemmovie.com/0d98a346-7dc3-46ac-93b8-62a4b1e2c578.m3u8
+
+#EXTINF:-1 tvg-chno="81" tvg-id="astroprima" group-title="Malaysia" tvg-logo="https://iptvthai.my.to/logo/Astro_Prima_HD.png?rev=8",Astro Prima Backup (BACKUP)
+http://ts.lemmovie.com/30194138-4d0c-4243-9438-21fd15a7216b.m3u8
+
+#EXTINF:-1 tvg-chno="82" tvg-id="astrowarna" group-title="Malaysia" tvg-logo="https://iptvthai.my.to/logo/Astro_Warna_HD.png?rev=8",Astro Warna Backup (BACKUP)
+http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
+
+#EXTINF:-1 tvg-chno="83" tvg-id="astroceria" group-title="Malaysia" tvg-logo="https://iptvthai.my.to/logo/Astro_Ceria_HD.png?rev=8",Astro Ceria Backup (BACKUP)
+http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
