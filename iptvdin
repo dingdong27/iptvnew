@@ -1,0 +1,229 @@
+#EXTM3U
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-ID="HIT.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/fmn.png" group-title="Malaysia",FMN
+https://liveanevia.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-ID="HIT.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428161_ico.png" group-title="Malaysia",HITS
+https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-ID="Kix.Asia" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428328_ico.png" group-title="Malaysia",KIX
+https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="AXN.Int" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428162_ico.png" group-title="Malaysia",AXN
+https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="FXC.Asia" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428179_ico.png" group-title="Malaysia",FOX Crime
+https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_dash_vmx/FoxCrime.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-name="304" tvg-id="HIM.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/thrill.png" group-title="Malaysia",THRILL
+https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-name="304" tvg-id="HIM.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488593_ico.png" group-title="Malaysia",HITS MOVIE
+https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-name="304" tvg-id="Fli.IN" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428153_ico.png" group-title="Malaysia",&FLIX
+#http://103.214.202.218:8081/live/andflix-29/chunks.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-name="305" tvg-id="Pri.IN" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428154_ico.png" group-title="Malaysia",&PRIVE
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-ID="dramasangat.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/drama%20sangat.png" group-title="MY",DRAMA SANGAT
+https://fvtv2.mywire.org/streams/dailymotion/ch_ds.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-name="304" tvg-id="Hbo.Asia" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499158_ico.png" group-title="MOVIE",HBO
+https://raw.githubusercontent.com/angahjee1994/tv/master/hbo.m3u8
+ 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-name="304" tvg-id="Hbh.Asia" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446409_ico.png" group-title="MOVIE",HBO HITS
+https://raw.githubusercontent.com/angahjee1994/tv/master/hbohit.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-name="304" tvg-id="Hbf.Asia" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499153_ico.png" group-title="MOVIE",HBO FAMILY
+https://raw.githubusercontent.com/angahjee1994/tv/master/hbofam.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-name="304" tvg-id="Hbs.Asia" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446380_ico.png" group-title="MOVIE",HBO SIGNATURE
+https://raw.githubusercontent.com/angahjee1994/tv/master/hbosig.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-name="304" tvg-id="Red.Asia" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499186_ico.png" group-title="MOVIE",Red By HBO
+https://raw.githubusercontent.com/angahjee1994/tv/master/red.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-name="304" tvg-id="CNX.Asia" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488554_ico.png" group-title="MOVIE",CINEMAX
+https://raw.githubusercontent.com/angahjee1994/tv/master/cinemax.m3u8
+
+
+#EXTINF:-1 tvg-name="304" tvg-id="Fli.IN" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428153_ico.png" group-title="MOVIE",&FLIX
+#http://103.214.202.218:8081/live/andflix-29/chunks.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8?auth_key=1598916881-2090652880-0-33828599c8e3c1190c5ac1d383808efa
+
+#EXTINF:-1 tvg-logo="https://foxactionmovies.foxmoviesasia.com/images/fam.png" group-title="MOVIE",Fox Action Movies 
+https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Rtl_cbs_entertainment_hd.png/400px-Rtl_cbs_entertainment_hd.png" group-title="MOVIE",Blue Ant Entertainment
+https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Blue_ant_extreme_logo.png/220px-Blue_ant_extreme_logo.png" group-title="MOVIE",Blue Ant Extreme
+https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-id"andflix" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="MOVIE",&Flix HD
+https://y5w8j4a9.ssl.hwcdn.net:443/andflixhd/tracks-v1a1/index.m3u8
+ 
+#EXTINF:-1 tvg-id"andprive" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRZDjuxrFrWldIYRwhGvKihLWFnh8IuLTMTgg&usqp=CAU" group-title="MOVIE",&Prive HD
+https://y5w8j4a9.ssl.hwcdn.net:443/andprivehd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 xmltv-id="cinemax" tvg-id="CINEMAX.MACAN" group-title="MOVIE" tvg-logo="https://cdn.macan.tv/img/cinemaxa.png", Cinemax by HBO 360p
+https://raw.githubusercontent.com/raizoML/new/main/hbogo%20(need%20vpn%201.1.1.1%20warp%2B)/cinemax360.m3u8
+
+#EXTINF:-1 xmltv-id="cinemax" tvg-id="CINEMAX.MACAN" group-title="MOVIE" tvg-logo="https://cdn.macan.tv/img/cinemaxa.png", Cinemax by HBO 540p
+https://raw.githubusercontent.com/raizoML/new/main/hbogo%20(need%20vpn%201.1.1.1%20warp%2B)/cinemax540.m3u8
+
+#EXTINF:-1 xmltv-id="cinemax" tvg-id="CINEMAX.MACAN" group-title="MOVIE" tvg-logo="https://cdn.macan.tv/img/cinemaxa.png", Cinemax by HBO FHD
+https://raw.githubusercontent.com/raizoML/new/main/hbogo%20(need%20vpn%201.1.1.1%20warp%2B)/cinemaxFHD.m3u8
+
+#EXTINF:-1 xmltv-id="hbo" tvg-id="HBOHD.MACAN" group-title="MOVIE" tvg-logo="https://cdn.macan.tv/img/hbo.png", HBO 360p
+https://raw.githubusercontent.com/raizoML/new/main/hbogo%20(need%20vpn%201.1.1.1%20warp%2B)/hbo360.m3u8
+
+#EXTINF:-1 xmltv-id="hbo" tvg-id="HBOHD.MACAN" group-title="MOVIE" tvg-logo="https://cdn.macan.tv/img/hbo.png", HBO 540p
+https://raw.githubusercontent.com/raizoML/new/main/hbogo%20(need%20vpn%201.1.1.1%20warp%2B)/hbo540.m3u8
+
+#EXTINF:-1 xmltv-id="hbo" tvg-id="HBOHD.MACAN" group-title="MOVIE" tvg-logo="https://cdn.macan.tv/img/hbo.png", HBO FHD
+https://raw.githubusercontent.com/raizoML/new/main/hbogo%20(need%20vpn%201.1.1.1%20warp%2B)/hboFHD.m3u8
+
+#EXTINF:-1 xmltv-id="hbofam" tvg-id="HBOFamilyHD.MACAN" group-title="MOVIE" tvg-logo="https://cdn.macan.tv/img/hbo_family.png", HBO Family 360p
+https://raw.githubusercontent.com/raizoML/new/main/hbogo%20(need%20vpn%201.1.1.1%20warp%2B)/hbofam360.m3u8
+
+#EXTINF:-1 xmltv-id="hbofam" tvg-id="HBOFamilyHD.MACAN" group-title="MOVIE" tvg-logo="https://cdn.macan.tv/img/hbo_family.png", HBO Family 540p
+https://raw.githubusercontent.com/raizoML/new/main/hbogo%20(need%20vpn%201.1.1.1%20warp%2B)/hbofam540.m3u8
+
+#EXTINF:-1 xmltv-id="hbofam" tvg-id="HBOFamilyHD.MACAN" group-title="MOVIE" tvg-logo="https://cdn.macan.tv/img/hbo_family.png", HBO Family FHD
+https://raw.githubusercontent.com/raizoML/new/main/hbogo%20(need%20vpn%201.1.1.1%20warp%2B)/hbofamFHD.m3u8
+
+#EXTINF:-1 xmltv-id="hbohits" tvg-id="HBOHitsHD.MACAN" group-title="MOVIE" tvg-logo="https://cdn.macan.tv/img/hbo_hits.png", HBO Hits 360p
+https://raw.githubusercontent.com/raizoML/new/main/hbogo%20(need%20vpn%201.1.1.1%20warp%2B)/hbohits360.m3u8
+
+#EXTINF:-1 xmltv-id="hbohits" tvg-id="HBOHitsHD.MACAN" group-title="MOVIE" tvg-logo="https://cdn.macan.tv/img/hbo_hits.png", HBO Hits 540p
+https://raw.githubusercontent.com/raizoML/new/main/hbogo%20(need%20vpn%201.1.1.1%20warp%2B)/hbohits540.m3u8
+
+#EXTINF:-1 xmltv-id="hbohits" tvg-id="HBOHitsHD.MACAN" group-title="MOVIE" tvg-logo="https://cdn.macan.tv/img/hbo_hits.png", HBO Hits FHD
+https://raw.githubusercontent.com/raizoML/new/main/hbogo%20(need%20vpn%201.1.1.1%20warp%2B)/hbohitsFHD.m3u8
+
+#EXTINF:-1 xmltv-id="hbosig" tvg-id="HBOSignatureHD.MACAN" group-title="MOVIE" tvg-logo="https://cdn.macan.tv/img/hbo_signature.png", HBO Signature 360p
+https://raw.githubusercontent.com/raizoML/new/main/hbogo%20(need%20vpn%201.1.1.1%20warp%2B)/hbosig360.m3u8
+
+#EXTINF:-1 xmltv-id="hbosig" tvg-id="HBOSignatureHD.MACAN" group-title="MOVIE" tvg-logo="https://cdn.macan.tv/img/hbo_signature.png", HBO Signature 540p
+https://raw.githubusercontent.com/raizoML/new/main/hbogo%20(need%20vpn%201.1.1.1%20warp%2B)/hbosig540.m3u8
+
+#EXTINF:-1 xmltv-id="hbosig" tvg-id="HBOSignatureHD.MACAN" group-title="MOVIE" tvg-logo="https://cdn.macan.tv/img/hbo_signature.png", HBO Signature FHD
+https://raw.githubusercontent.com/raizoML/new/main/hbogo%20(need%20vpn%201.1.1.1%20warp%2B)/hbosigFHD.m3u8
+
+#EXTINF:-1 xmltv-id="hbored" tvg-id="RED.MACAN" group-title="MOVIE" tvg-logo="https://cdn.macan.tv/img/red_hbo.png", RED by HBO 360p
+https://raw.githubusercontent.com/raizoML/new/main/hbogo%20(need%20vpn%201.1.1.1%20warp%2B)/hbored360.m3u8
+
+#EXTINF:-1 xmltv-id="hbored" tvg-id="RED.MACAN" group-title="MOVIE" tvg-logo="https://cdn.macan.tv/img/red_hbo.png", RED by HBO 540p
+https://raw.githubusercontent.com/raizoML/new/main/hbogo%20(need%20vpn%201.1.1.1%20warp%2B)/hbored540.m3u8
+
+#EXTINF:-1 xmltv-id="hbored" tvg-id="RED.MACAN" group-title="MOVIE" tvg-logo="https://cdn.macan.tv/img/red_hbo.png", RED by HBO FHD
+https://raw.githubusercontent.com/raizoML/new/main/hbogo%20(need%20vpn%201.1.1.1%20warp%2B)/hboredFHD.m3u8
+
+#EXTINF:-1 tvg-id="Pri.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_300.png" group-title="Malaysia",Astro Prima (BACKUP)
+http://ts.lemmovie.com/30194138-4d0c-4243-9438-21fd15a7216b.m3u8
+ 
+#EXTINF:-1 tvg-id="Ria.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/124_300.png" group-title="Malaysia",Astro Ria (BACKUP)
+http://ts.lemmovie.com/0d98a346-7dc3-46ac-93b8-62a4b1e2c578.m3u8
+ 
+#EXTINF:-1 tvg-id="War.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png" group-title="Malaysia",Astro Warna (BACKUP)
+http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
+ 
+#EXTINF:-1 tvg-id="Boo.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png" group-title="Malaysia",Astro Boo (BACKUP)
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="57" tvg-id="astrocitra" group-title="Malaysia" tvg-logo="https://iptvthai.my.to/logo/Astro-Citra-HD.png?rev=8",Astro Citra (BACKUP)
+http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Oas.MY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Astro_Oasis_2019.png/revision/latest/scale-to-width-down/200?cb=20190111152636" group-title="Malaysia", Astro Oasis (BACKUP)
+http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Malay (macrolanguage)" tvg-logo="https://yt3.ggpht.com/a/AATXAJzd2RPKopBOqInaP7TGFkpOzRgbwaApn81UBA" tvg-country="MY" tvg-url="" group-title="Malaysia",Pertiwi TV (BACKUP)
+https://mn-nl.mncdn.com/pertiwitv/pertiwitv/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="80" tvg-id="astroria" group-title="Malaysia" tvg-logo="https://iptvthai.my.to/logo/Astro_Ria_HD.png?rev=8",Astro Ria Backup (BACKUP)
+http://ts.lemmovie.com/0d98a346-7dc3-46ac-93b8-62a4b1e2c578.m3u8
+
+#EXTINF:-1 tvg-chno="81" tvg-id="astroprima" group-title="Malaysia" tvg-logo="https://iptvthai.my.to/logo/Astro_Prima_HD.png?rev=8",Astro Prima Backup (BACKUP)
+http://ts.lemmovie.com/30194138-4d0c-4243-9438-21fd15a7216b.m3u8
+
+#EXTINF:-1 tvg-chno="82" tvg-id="astrowarna" group-title="Malaysia" tvg-logo="https://iptvthai.my.to/logo/Astro_Warna_HD.png?rev=8",Astro Warna Backup (BACKUP)
+http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
+
+#EXTINF:-1 tvg-chno="83" tvg-id="astroceria" group-title="Malaysia" tvg-logo="https://iptvthai.my.to/logo/Astro_Ceria_HD.png?rev=8",Astro Ceria Backup (BACKUP)
+http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
+
+
+#EXTINF:-1 tvg-chno="21" tvg-id="hbo" group-title="Test" tvg-logo="https://iptvthai.my.to/logo/hbo.png?rev=8",HBO (BACKUP)
+https://iptvthai.my.to/hbo-th/HBO.m3u8
+
+#EXTINF:-1 tvg-chno="22" tvg-id="hbosignature" group-title="Test" tvg-logo="https://iptvthai.my.to/logo/signature.png?rev=8",HBO Signature (BACKUP)
+https://iptvthai.my.to/hbo-th/SIG.m3u8
+
+#EXTINF:-1 tvg-chno="23" tvg-id="hbofamily" group-title="Test" tvg-logo="https://iptvthai.my.to/logo/family.png?rev=8",HBO Family (BACKUP)
+https://iptvthai.my.to/hbo-th/FAMILY.m3u8
+
+#EXTINF:-1 tvg-chno="24" tvg-id="hbohits" group-title="Test" tvg-logo="https://iptvthai.my.to/logo/hbo-hits.png?rev=8",HBO Hits (BACKUP)
+https://iptvthai.my.to/hbo-th/HITS.m3u8
+
+#EXTINF:-1 tvg-chno="26" tvg-id="redbyhbo" group-title="Test" tvg-logo="https://iptvthai.my.to/logo/red.png?rev=8",Red by HBO (BACKUP)
+https://iptvthai.my.to/hbo-th/RED.m3u8
+
+
+
+
+#EXTINF:123,tvg-id="Ria.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/124_300.png" group-title="Test",ASTRO RIA BACKUP (BACKUP)
+http://ts.lemmovie.com/0d98a346-7dc3-46ac-93b8-62a4b1e2c578.m3u8
+
+#EXTINF:-1 tvg-id="Pri.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_300.png" group-title="Test",ASTRO PRIMA BACKUP (BACKUP)
+http://ts.lemmovie.com/30194138-4d0c-4243-9438-21fd15a7216b.m3u8
+
+#EXTINF:321,tvg-id="War.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png" group-title="Test",ASTRO WARNA BACKUP (BACKUP)
+http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
+
+#EXTINF:-1 tvg-id="War.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png" group-title="Test",ASTRO WARNA BACKUP 2 (BACKUP)
+http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
+
+#EXTINF:-1 xmltv-id="SONY MOVIE HD" tvg-id="SONY MOVIE HD" group-title="MY" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1374.1569972429.png", SONY MOVIE HD
+http://51.52.156.22:8888/http/009
+
+
+
