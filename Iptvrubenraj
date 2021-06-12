@@ -316,10 +316,10 @@ https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="817" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/291_144.png" group-title="Sports",Fox Sports 3 Asia
 https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="BT1" tvg-logo="https://i.postimg.cc/hvNq8zvC/BT-SPORT-1.png" group-title="Sports",BT SPORT 1
-https://cmt.mb13.cyou/uni/livedo/btsport1.m3u8
-#EXTINF:-1 tvg-id="BT2" tvg-logo="https://i.postimg.cc/RVnmSRp2/BT-SPORT-2-HD.png" group-title="Sports",BT SPORT 2 HD
-https://cmt.mb13.cyou/uni/livedo/btsport2.m3u8
+#EXTINF:-1 tvg-id=" " group-title="SPORT" ,BT SPORT 1 HD
+http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="SPORT" ,BT SPORT 2 HD
+http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="818" tvg-logo="https://i.postimg.cc/KzGPnhCq/logo-bein1-big1.png" group-title="Sports",beIN Sports 1 [Usee]
 https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==bein1&b=15&c=bein1
 #EXTINF:-1 tvg-id="818" tvg-logo="https://i.postimg.cc/KzGPnhCq/logo-bein1-big1.png" group-title="Sports",beIN Sports 1
@@ -392,12 +392,6 @@ http://ip.trboss.net:80/dindin/sdfsjfujskrez/3756
 http://ip.trboss.net:80/dindin/sdfsjfujskrez/3757
 #EXTINF:0 tvg-country="UA" tvg-logo="" group-title="UK_Sport",Eir Sport 1
 http://ip.trboss.net:80/dindin/sdfsjfujskrez/3758
-#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="UK_Sport",BT Sport 3
-http://ip.trboss.net:80/dindin/sdfsjfujskrez/3759
-#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="UK_Sport",BT Sport 2
-http://ip.trboss.net:80/dindin/sdfsjfujskrez/3760
-#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="UK_Sport",BT Sport
-http://ip.trboss.net:80/dindin/sdfsjfujskrez/3761
 #EXTINF:0 tvg-country="UA" tvg-logo="" group-title="UK_Sport",Sky Sport F1
 http://ip.trboss.net:80/dindin/sdfsjfujskrez/3762
 
@@ -1164,12 +1158,11 @@ http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DyZrX56J/FCB-TV.png" group-title="SPORT LIVE",Bayern Munchen TV
 https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/wJ3HcQcPAsQaHtAxkJWwrg/index-s36.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/hvNq8zvC/BT-SPORT-1.png" group-title="SPORT LIVE",BT SPORT 1
-https://cmt.mb13.cyou/uni/livedo/btsport1.m3u8
+#EXTINF:-1 tvg-id=" " group-title="SPORT" ,BT SPORT 1 HD
+http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RVnmSRp2/BT-SPORT-2-HD.png" group-title="SPORT LIVE",BT SPORT 2 HD
-https://cmt.mb13.cyou/uni/livedo/btsport2.m3u8
-
+#EXTINF:-1 tvg-id=" " group-title="SPORT" ,BT SPORT 2 HD
+http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
 
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/Bbj01cSL/CHANNEL-FIGHT.png" group-title="SPORT LIVE",Channel FIGHT
