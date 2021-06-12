@@ -320,8 +320,10 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
 http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id=" " group-title="SPORT" ,BT SPORT 2 HD
 http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="818" tvg-logo="https://i.postimg.cc/KzGPnhCq/logo-bein1-big1.png" group-title="Sports",beIN Sports 1 [Usee]
-https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==bein1&b=15&c=bein1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="B01.th" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/beinsport1.png" group-title="SPORT",BEIN SPORTS 1
+https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd
 #EXTINF:-1 tvg-id="818" tvg-logo="https://i.postimg.cc/KzGPnhCq/logo-bein1-big1.png" group-title="Sports",beIN Sports 1
 #http://185.180.221.194:8278/streams/d/Bein1hd/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Bein1hd/playlist.m3u8
@@ -1395,12 +1397,10 @@ https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QxqTRkLT/BEIN-SPORTS.png" group-title="BEIN SPORTS",beIN Sports
 
-#EXTINF:-1 tvg-id="bein1" tvg-logo="https://i.postimg.cc/KzGPnhCq/logo-bein1-big1.png" group-title="BEIN SPORTS",beIN Sports 1 [Usee]
-https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==bein1&b=15&c=bein1
-
-#EXTINF:-1 tvg-id="bein1" tvg-logo="https://i.postimg.cc/KzGPnhCq/logo-bein1-big1.png" group-title="BEIN SPORTS",beIN Sports 1
-#http://185.180.221.194:8278/streams/d/Bein1hd/playlist.m3u8
-http://50.7.161.82:8278/streams/d/Bein1hd/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="B01.th" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/beinsport1.png" group-title="bein1",BEIN SPORTS 1
+https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd
 
 #EXTINF:-1 tvg-id="bein2" tvg-logo="https://i.postimg.cc/0QVpnHs8/logo-bein2-big1.png" group-title="BEIN SPORTS",beIN Sports 2 [Usee]
 https://cmt.mb13.cyou/uni/ku/see/ucf.php?a==bein2&b=15&c=bein2
