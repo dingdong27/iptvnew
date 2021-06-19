@@ -1,0 +1,106 @@
+ #EXTM3U
+ 
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/fe3cbfb8b107028b0ab52.png" group-title="MOVIE/ENTERTAINMENT", Discovery Science HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7907
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/115360a81fb3890f5101f.png" group-title="MOVIE/ENTERTAINMENT", Discovery Channel
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7889
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/625b5253d10c329d84aff.png" group-title="MOVIE/ENTERTAINMENT", Discovery Investigation
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7848
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/3b454ca25d6e366b02f24.png" group-title="MOVIE/ENTERTAINMENT", Discovery Life
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/52965
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="MOVIE/ENTERTAINMENT", BBC EARTH
+https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670148/301893990.png" group-title="MOVIE/ENTERTAINMENT", National Geographic HD
+http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670148/301893991.png" group-title="MOVIE/ENTERTAINMENT", Nat Geo Wild HD
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/afa7944f2ef89c711d58c.png" group-title="MOVIE/ENTERTAINMENT", HGTV [ASIA]
+http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/fe3cbfb8b107028b0ab52.png" group-title="MOVIE/ENTERTAINMENT", Discovery Science HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7907
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/800px-Logo_Lifetime_2020.svg.png" group-title="MOVIE/ENTERTAINMENT", Lifetime
+https://liveanevia.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
+#EXTINF: -1 tvg-logo="https://api.discovery.com/v1/images/5bc91c366b66d1494068339e?aspectRatio=1x1&width=192&key=3020a40c2356a645b4b4" group-title="MOVIE/ENTERTAINMENT", Animal Planet
+https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
+#EXTINF: -1 tvg-logo="https://api.discovery.com/v1/images/5ca22512d1b3ee5361260d00?aspectRatio=1x1&width=192&key=3020a40c2356a645b4b4" group-title="MOVIE/ENTERTAINMENT", Discovery Channel
+https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
+#EXTINF: -1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/401_1920x1080_HTV.png" group-title="MOVIE/ENTERTAINMENT", History
+https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
+#EXTINF: -1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/91_144.png" group-title="MOVIE/ENTERTAINMENT", Asian Food Network
+https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/9d3925f1e10917372eeaf.png" group-title="MOVIE/ENTERTAINMENT", Nat Geo Wild
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/98a3e3651b464b0927eec.png" group-title="MOVIE/ENTERTAINMENT", Discovery Asia
+https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/4cc5697a84171e3e8991d.jpg" group-title="MOVIE/ENTERTAINMENT", Animal Planet
+http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+EXTINF: -1 tvg-logo="https://telegra.ph/file/fe3cbfb8b107028b0ab52.png" group-title="“BACKUP”", Discovery Science HD CH554
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7907
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/115360a81fb3890f5101f.png" group-title="“BACKUP”", Discovery Channel 552
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7889
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/625b5253d10c329d84aff.png" group-title="“BACKUP”", Discovery Investigation
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7848
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/3b454ca25d6e366b02f24.png" group-title="“BACKUP”", Discovery Life
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/52965
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="“BACKUP”", BBC EARTH
+https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/fe3cbfb8b107028b0ab52.png" group-title="“BACKUP”", Discovery Science HD CH554
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7907
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/800px-Logo_Lifetime_2020.svg.png" group-title="“BACKUP”", Lifetime
+https://liveanevia.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
+#EXTINF: -1 tvg-logo="https://api.discovery.com/v1/images/5bc91c366b66d1494068339e?aspectRatio=1x1&width=192&key=3020a40c2356a645b4b4" group-title="“BACKUP”", Animal Planet
+https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
+#EXTINF: -1 tvg-logo="https://api.discovery.com/v1/images/5ca22512d1b3ee5361260d00?aspectRatio=1x1&width=192&key=3020a40c2356a645b4b4" group-title="“BACKUP”", Discovery Channel
+https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
+#EXTINF: -1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/401_1920x1080_HTV.png" group-title="“BACKUP”", History
+https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
+#EXTINF: -1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/91_144.png" group-title="“BACKUP”", Asian Food Network
+https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd
+#EXTINF:-1 tvg-id="HistoryHD" group-title=“NEW” tvg-logo="https://poster.starhubgo.com/Linear_channels2/401_1920x1080_HTV.png",History
+https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
+
+#EXTINF:-1 tvg-id="Crime&InvestigationHD" group-title=“NEW” tvg-logo="https://poster.starhubgo.com/Linear_channels2/403_1920x1080_HTV.png",Crime & Investigation
+https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
+#EXTINF:-1 tvg-id="DmaxHD" group-title=“NEW” tvg-logo="https://i.ibb.co/CJjqgZB/dmax.png",DMAX HD
+https://m3u-editor.com/serve/bb57d820-c98a-11eb-9b71-cbe56d74b5bb/313536507
+
+#EXTINF:-1 tvg-id="AsianFoodNetworkHD" group-title=“NEW” tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/91_144.png",Asian Food Network
+https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd
+
+# #EXTINF:-1 tvg-id=" " group-title=“NEW” tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/246px-Food_Network_New_Logo.png",Food Network
+# http://line.yo-ott.com:8000/167d10c8c2/50cda00648/391013
+
+#EXTINF:-1 tvg-id="BBCEarthHD" group-title=“NEW” tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/2019071606454895082c.png",BBC Earth HD
+http://1.9.62.158/PLTV/88888888/224/3221227577/3221227577.mpd
+
+#EXTINF:-1 tvg-id="LoveNatureHD" group-title=“NEW” tvg-logo="https://poster.starhubgo.com/Linear_channels2/416_1920x1080_HTV.png",Love Nature HD
+http://1.9.62.158/PLTV/88888888/224/3221227672/3221227672.mpd
+
+#EXTINF:-1 tvg-id="NationalGeographic" group-title=“NEW” tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716065651397ki2.png",National Geographic
+http://1.9.62.158/PLTV/88888888/224/3221227567/3221227567.mpd
+
+#EXTINF:-1 tvg-id="NatGeoWild" group-title=“NEW” tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202009/20200907/20200907034018802dtj.PNG",Nat Geo Wild
+http://1.9.62.158/PLTV/88888888/224/3221227628/3221227628.mpd
+
+#EXTINF:-1 tvg-id="NatGeoPeopleHD" group-title=“NEW” tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716065806236c1s.png",Nat Geo People HD
+http://1.9.62.158/PLTV/88888888/224/3221227590/3221227590.mpd
+
+#EXTINF:-1 tvg-id="BBCLifestyleHD" group-title=“NEW” tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716064944437peu.png",BBC Lifestyle HD
+http://1.9.62.158/PLTV/88888888/224/3221227531/3221227531.mpd
+
+#EXTINF:-1 tvg-id="TravelChannel" group-title=“NEW” tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/201907/20190716/20190716073823792x3y.png",Travel Channel HD
+http://1.9.62.158/PLTV/88888888/224/3221227593/3221227593.mpd
+
+#EXTINF:-1 tvg-id="Luxe.TVHD" group-title=“NEW” tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190708/20190708075136521klp.png",Luxe.TV HD
+http://1.9.62.158/PLTV/88888888/224/3221227600/3221227600.mpd
+
+#EXTINF:-1 tvg-id="MTVAsia" group-title=“NEW” tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/2019071607170970968i.png",MTV Asia
+http://1.9.62.158/PLTV/88888888/224/3221227613/3221227613.mpd
+
+#EXTINF:-1 tvg-id="HGTVHD" group-title=“NEW” tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png",HGTV
+https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
+
+#EXTINF:-1 tvg-id="TLCHD" group-title=“NEW” tvg-logo="https://api.discovery.com/v1/images/558c1c396b66d1023309e791?aspectRatio=1x1&width=192&key=3020a40c2356a645b4b4",TLC
+https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
+
+
