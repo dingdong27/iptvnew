@@ -1,3 +1,4 @@
+
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml" url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml" refresh="3600"
 
 #EXTM3U
@@ -12,7 +13,8 @@ http://1.9.62.158/PLTV/88888888/224/3221227609/3221227609.mpd
 http://1.9.62.158/PLTV/88888888/224/3221227769/3221227769.mpd
 
 #EXTINF:-1 tvg-id="101" group-title="ENTERTAINMENT" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032126911a3z.png",TV1 (Backup)
-http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
+https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b4064000.m3u8|Referer=https://rtmklik.rtm.gov.my
+# http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 # http://185.180.221.194:8278/streams/d/TV1/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -22,6 +24,7 @@ https://web.hypp.tv/PLTV/88888888/224/3221227815/3221227815.mpd
 
 #EXTINF:-1 tvg-id="102" group-title="ENTERTAINMENT" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png",TV2 (Backup)
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
+# https://rtmlive01.secureswiftcontent.com/rtmchannel/01_1080.m3u8|Referer=https://rtmklik.rtm.gov.my
 # http://185.180.221.194:8278/streams/d/TV2/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -31,10 +34,15 @@ https://web.hypp.tv/PLTV/88888888/224/3221227779/3221227779.mpd
 
 #EXTINF:-1 tvg-id="103" group-title="ENTERTAINMENT" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",TV3 (Backup)
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+# https://pcccw.github.io/Ark/M3U8/Token/MY/TV3.m3u8|Referer=https://www.dailymotion.com
 # http://185.180.221.194:8278/streams/d/TV3/playlist.m3u8
 
+#EXTINF:-1 tvg-id="103" group-title="ENTERTAINMENT" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",TV3 (Backup 2)
+https://github.com/KakLongGarang/hentamsajala/raw/main/TV3.m3u8|Referer=https://www.dailymotion.com
+
 #EXTINF:-1 tvg-id="TV6" group-title="ENTERTAINMENT" tvg-logo="https://mediahomes.github.io/logos/tv6.png",TV6
-https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
+https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b4064000.m3u8|Referer=https://rtmklik.rtm.gov.my
+# https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OGM4ZWY4MjEtZGVkZC0zZWViLWI1NTktMjMyYmQwNjNhNTdk
@@ -54,9 +62,11 @@ http://1.9.62.158/PLTV/88888888/224/3221227483/3221227483.mpd
 
 #EXTINF:-1 tvg-id=" " group-title="ENTERTAINMENT" tvg-logo="http://mediahomes.github.io/logos/drama-sangat.png",Drama Sangat
 http://mediahomes.github.io/assets/my/ch_ds.m3u8|Referer=https://www.dailymotion.com
+# https://pcccw.github.io/Ark/M3U8/Token/MY/DramaSangat.m3u8|Referer=https://www.dailymotion.com
 
 #EXTINF:-1 tvg-id="146" group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",OKEY
-https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
+https://rtmlive03.secureswiftcontent.com/rtmchannel/03_1080.m3u8|Referer=https://rtmklik.rtm.gov.my
+# https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 # https://rtm6hbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b1064000.m3u8
 
 #EXTINF:-1 tvg-id="123" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/123.png",Awesome TV
@@ -107,11 +117,20 @@ http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
 # https://agsplayback01.astro.com.my/CH2/master_NAURAGOSHOP4_03.m3u8
 
+#EXTINF:-1 tvg-id="109" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/109.png",Naura(Backup)
+http://iptv.tvmalaysia.cc:80/737373/737373/6724
+
 #EXTINF:-1 tvg-id="112" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",Rania
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6729
 
+#EXTINF:-1 tvg-id="112" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",Rania(Backup)
+http://iptv.tvmalaysia.cc:80/737373/737373/6729
+
 #EXTINF:-1 tvg-id="113" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png",Aura
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6713
+
+#EXTINF:-1 tvg-id="113" group-title="ENTERTAINMENT" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png",Aura(Backup)
+http://iptv.tvmalaysia.cc:80/737373/737373/6713
 
 #EXTINF:-1 tvg-id="702" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/110.png",Hello
 https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
@@ -638,7 +657,8 @@ https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 
 #EXTINF:-1 tvg-id="TVSUKAN" group-title="SPORTS" tvg-logo="https://mediahomes.github.io/logos/sukan.png",Sukan RTM
-https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
+https://rtmlive02.secureswiftcontent.com/rtmchannel/02_1080.m3u8|Referer=https://rtmklik.rtm.gov.my
+# https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 
 #EXTINF:-1 tvg-id="801" group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/801.png",Arena
 http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
@@ -714,71 +734,6 @@ http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6791
 #EXTINF:-1 group-title="SPORTS" tvg-id="817" tvg-chno="817" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072024251ul7.png",FOX Sports 3 HD
 http://1.9.62.173/PLTV/88888888/224/3221227634/3221227634.mpd
 
-#EXTINF:-1 tvg-id="unifiSports1" group-title="SPORTS" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200219/20200219034140282its.png",unifi Sports 1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OGM4ZWY4MjEtZGVkZC0zZWViLWI1NTktMjMyYmQwNjNhNTdk
-http://1.9.62.158/PLTV/88888888/224/3221227675/3221227675.mpd
-
-#EXTINF:-1 tvg-id="unifiSports2" group-title="SPORTS" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200223/20200223030942343uz5.png",unifi Sports 2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OGM4ZWY4MjEtZGVkZC0zZWViLWI1NTktMjMyYmQwNjNhNTdk
-http://1.9.62.158/PLTV/88888888/224/3221227722/3221227722.mpd
-
-#EXTINF:-1 tvg-id="unifiSports3" group-title="SPORTS" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200219/20200219034638064fgd.png",unifi Sports 3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OGM4ZWY4MjEtZGVkZC0zZWViLWI1NTktMjMyYmQwNjNhNTdk
-http://1.9.62.158/PLTV/88888888/224/3221227682/3221227682.mpd
-
-#EXTINF:-1 tvg-id="unifiSports4" group-title="SPORTS" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202107/20210709/20210709175936849u0i.png",unifi Sports 4
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OGM4ZWY4MjEtZGVkZC0zZWViLWI1NTktMjMyYmQwNjNhNTdk
-http://1.9.62.158/PLTV/88888888/224/3221227685/3221227685.mpd
-
-#EXTINF:-1 tvg-id="unifiSports5" group-title="SPORTS" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202107/20210709/20210709175600988bln.png",unifi Sports 5
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OGM4ZWY4MjEtZGVkZC0zZWViLWI1NTktMjMyYmQwNjNhNTdk
-http://1.9.62.158/PLTV/88888888/224/3221227705/3221227705.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OGM4ZWY4MjEtZGVkZC0zZWViLWI1NTktMjMyYmQwNjNhNTdk
-#EXTINF:-1 group-title="Tokyo 2020 Olympics" tvg-id="USC" tvg-chno="US6" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/NpUkSL3T",unifi Sports 6 HD
-https://github.com/weareblahs/unifi-tv-placeholders/raw/main/unifisports20210720/playlist.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OGM4ZWY4MjEtZGVkZC0zZWViLWI1NTktMjMyYmQwNjNhNTdk
-#EXTINF:-1 group-title="Tokyo 2020 Olympics" tvg-id="USC" tvg-chno="US7" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/1gQKtrxB",unifi Sports 7 HD
-https://github.com/weareblahs/unifi-tv-placeholders/raw/main/unifisports20210720/playlist.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OGM4ZWY4MjEtZGVkZC0zZWViLWI1NTktMjMyYmQwNjNhNTdk
-#EXTINF:-1 group-title="Tokyo 2020 Olympics" tvg-id="USC" tvg-chno="US8" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/VrUDHzHa",unifi Sports 8 HD
-https://github.com/weareblahs/unifi-tv-placeholders/raw/main/unifisports20210720/playlist.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OGM4ZWY4MjEtZGVkZC0zZWViLWI1NTktMjMyYmQwNjNhNTdk
-#EXTINF:-1 group-title="Tokyo 2020 Olympics" tvg-id="USC" tvg-chno="US9" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/8rs5tKy8",unifi Sports 9 HD
-https://github.com/weareblahs/unifi-tv-placeholders/raw/main/unifisports20210720/playlist.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OGM4ZWY4MjEtZGVkZC0zZWViLWI1NTktMjMyYmQwNjNhNTdk
-#EXTINF:-1 group-title="Tokyo 2020 Olympics" tvg-id="USC" tvg-chno="US10" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/8Y9dZUSI",unifi Sports 10 HD
-https://github.com/weareblahs/unifi-tv-placeholders/raw/main/unifisports20210720/playlist.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OGM4ZWY4MjEtZGVkZC0zZWViLWI1NTktMjMyYmQwNjNhNTdk
-#EXTINF:-1 group-title="Tokyo 2020 Olympics" tvg-id="USC" tvg-chno="US11" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/pC41J1AK",unifi Sports 11 HD
-https://github.com/weareblahs/unifi-tv-placeholders/raw/main/unifisports20210720/playlist.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OGM4ZWY4MjEtZGVkZC0zZWViLWI1NTktMjMyYmQwNjNhNTdk
-#EXTINF:-1 group-title="Tokyo 2020 Olympics" tvg-id="USC" tvg-chno="US12" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/cL0ged2e",unifi Sports 12 HD
-https://github.com/weareblahs/unifi-tv-placeholders/raw/main/unifisports20210720/playlist.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OGM4ZWY4MjEtZGVkZC0zZWViLWI1NTktMjMyYmQwNjNhNTdk
-#EXTINF:-1 group-title="Tokyo 2020 Olympics" tvg-id="USC" tvg-chno="US13" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/wuC3Kw9b",unifi Sports 13 HD
-https://github.com/weareblahs/unifi-tv-placeholders/raw/main/unifisports20210720/playlist.m3u8
-
 ############### BEIN SPORTS #################
 
 #EXTINF:-1 tvg-id="BeinSports" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png",Bein Sports 1
@@ -811,57 +766,87 @@ http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/96
 #EXTINF:-1 tvg-id="BeinSports" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png",Bein Sports AR 5
 http://sps1.tvmoip.com:18080/localserver2/serverlocal2021/97
 
-XTINF:-1 group-title="SPORTS" tvg-name="|BE| Eleven Sports 1 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-1-portugal-uk-pt.png",Eleven Sports 1 HD
+#EXTINF:-1 tvg-id="BeinSports" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png",Bein Sports ENG 1
+http://istars.pro:80/0599655171/HuvOf99spm/223675
+
+#EXTINF:-1 tvg-id="BeinSports" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png",Bein Sports ENG 2
+http://istars.pro:80/0599655171/HuvOf99spm/223679
+
+#EXTINF:-1 tvg-id="BeinSports" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png",Bein Sports ENG 3
+http://istars.pro:80/0599655171/HuvOf99spm/223683
+
+############### TSN SPORTS #################
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://img.pngio.com/2015-scotties-tournament-of-hearts-on-tsn-is-the-most-watched-ever-tsn-png-620_330.png",TSN-1 HD
+http://iptv.tvmalaysia.cc:80/321456/321456/8923
+# http://we.caughtyousnooping.club:80/markroofs/vk41iF39fz/2287
+# http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/1621
+# http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2287
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://img.pngio.com/2015-scotties-tournament-of-hearts-on-tsn-is-the-most-watched-ever-tsn-png-620_330.png",TSN-2 HD
+http://we.caughtyousnooping.club:80/markroofs/vk41iF39fz/2288
+http://iptv.tvmalaysia.cc:80/321456/321456/8924
+# http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/1622
+# http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2288
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://img.pngio.com/2015-scotties-tournament-of-hearts-on-tsn-is-the-most-watched-ever-tsn-png-620_330.png",TSN-3 HD
+http://we.caughtyousnooping.club:80/markroofs/vk41iF39fz/2289
+http://iptv.tvmalaysia.cc:80/321456/321456/8925
+# http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/1623
+# http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2289
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://img.pngio.com/2015-scotties-tournament-of-hearts-on-tsn-is-the-most-watched-ever-tsn-png-620_330.png",TSN-4 HD
+http://iptv.tvmalaysia.cc:80/321456/321456/8926
+# http://we.caughtyousnooping.club:80/markroofs/vk41iF39fz/2290
+# http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/1624
+# http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2290
+# http://iptv.tvmalaysia.cc:80/321456/321456/8926
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://img.pngio.com/2015-scotties-tournament-of-hearts-on-tsn-is-the-most-watched-ever-tsn-png-620_330.png",TSN-5 HD
+http://we.caughtyousnooping.club:80/markroofs/vk41iF39fz/2291
+# http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/1625
+# http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2291
+# http://portal.alliptvapp.com:8080/613607218194/666579067773/25753
+
+#EXTINF:-1 group-title="SPORTS" tvg-name="|BE| Eleven Sports 1 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-1-portugal-uk-pt.png",Eleven Sports 1 HD
 http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-name="|BE| Eleven Sports 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-2-portugal-uk-pt.png",Eleven Sports 2 HD
 http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN" group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN.us.png",ESPN
-http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/1262
+http://titanmedia.one:2082/live/UDASHBOARD/NAoSDAdVcP/39308.ts
+# http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/1262
 
 #EXTINF:-1 tvg-id="ESPN2" group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN.us.png",ESPN 2
-http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/1274
+http://titanmedia.one:2082/live/UDASHBOARD/NAoSDAdVcP/39309.ts
+# http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/1274
 
 #EXTINF:-1 tvg-id="ESPN3" group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN.us.png",ESPN 3
-http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/1709
+http://titanmedia.one:2082/live/UDASHBOARD/NAoSDAdVcP/39312.ts
+# http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/1709
 
 #EXTINF:-1 tvg-id="ESPN3" group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN.us.png",ESPN 4
-http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/95868
+http://titanmedia.one:2082/live/UDASHBOARD/NAoSDAdVcP/39311.ts
+# http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/95868
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://img.pngio.com/2015-scotties-tournament-of-hearts-on-tsn-is-the-most-watched-ever-tsn-png-620_330.png",TSN-1 HD
-http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/1621
-# http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2287
-# http://iptv.tvmalaysia.cc:80/321456/321456/8923
+#EXTINF:-1 tvg-id="ESPN3" group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN.us.png",ESPN 5
+http://titanmedia.one:2082/live/UDASHBOARD/NAoSDAdVcP/39313.ts
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://img.pngio.com/2015-scotties-tournament-of-hearts-on-tsn-is-the-most-watched-ever-tsn-png-620_330.png",TSN-2 HD
-http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/1622
-# http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2288
-#http://iptv.tvmalaysia.cc:80/321456/321456/8924
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://img.pngio.com/2015-scotties-tournament-of-hearts-on-tsn-is-the-most-watched-ever-tsn-png-620_330.png",TSN-3 HD
-http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/1623
-# http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2289
-#http://iptv.tvmalaysia.cc:80/321456/321456/8925
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://img.pngio.com/2015-scotties-tournament-of-hearts-on-tsn-is-the-most-watched-ever-tsn-png-620_330.png",TSN-4 HD
-http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/1624
-# http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2290
-#http://iptv.tvmalaysia.cc:80/321456/321456/8926
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://img.pngio.com/2015-scotties-tournament-of-hearts-on-tsn-is-the-most-watched-ever-tsn-png-620_330.png",TSN-5 HD
-http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/1625
-# http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2291
-#http://portal.alliptvapp.com:8080/613607218194/666579067773/25753
+#EXTINF:-1 tvg-id="ESPN3" group-title="SPORTS" tvg-logo="https://static.epg.best/us/ESPN.us.png",ESPN 6
+http://titanmedia.one:2082/live/UDASHBOARD/NAoSDAdVcP/39310.ts
 
 #EXTINF:-1 tvg-id="DubaiSports1" group-title="SPORTS" tvg-logo="https://i.pinimg.com/originals/91/d9/91/91d991fc0ded44b638841ddb3a65fbe0.png",Dubai Sports 1
-https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+http://portal.alliptvapp.com:8080/613607218194/666579067773/144
+# https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
 
 #EXTINF:-1 tvg-id="DubaiSports2" group-title="SPORTS" tvg-logo="https://www.wataan.tv/uploads/2422018-044101PM.png",Dubai Sports 2
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+http://portal.alliptvapp.com:8080/613607218194/666579067773/145
+# https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 
 #EXTINF:-1 tvg-id="DubaiSports3" group-title="SPORTS" tvg-logo="https://www.wataan.tv/uploads/2422018-044101PM.png",Dubai Sports 3
-https://d3pecoxar1c5xs.cloudfront.net/out/v1/81470e6e34644206a0afea41923f90ef/index_1.m3u8
+http://portal.alliptvapp.com:8080/613607218194/666579067773/146
+# https://d3pecoxar1c5xs.cloudfront.net/out/v1/81470e6e34644206a0afea41923f90ef/index_1.m3u8
 
 #EXTINF:-1 tvg-id="DubaiSports3" group-title="SPORTS" tvg-logo="https://www.wataan.tv/uploads/2422018-044101PM.png",Dubai Sports 4
 https://google-me.cdn.booyah.live/hls/113130/32479811.m3u8
@@ -889,3 +874,5 @@ https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d556
 
 #EXTINF:-1 tvg-id="NBATV" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png",NBA TV
 http://primeboss.live:826/ptchometv2/JoHxiA7Wv4/109182
+# http://51.91.73.99:25461/usachannel/ngZnG8PD5i/18152
+
