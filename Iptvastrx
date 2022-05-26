@@ -2,21 +2,6 @@
 #EXTM3U url-tvg="https://bit.ly/3itZsSm"
 #EXTM3U url-tvg="https://bit.ly/3itZsSm,https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml,https://pcccw.github.io/Ark/EPG/guide_71.xml,https://iptv-org.github.io/epg/guides/astro.com.my.guide.xml,https://iptv-org.github.io/epg/guides/vidio.com.guide.xml,https://iptv-org.github.io/epg/guides/tvtv.us.guide.xml,https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml,https://raw.githubusercontent.com/weareblahs/epg/master/mytv.xml"
 
-#EXTINF:-1 tvg-id="MYtest" tvg-name="test" tvg-logo="https://www.nicepng.com/png/full/326-3269982_download-icon-old-tv-in-png-television-uses.png" group-title="TOP TEST",SAMPLE VIDEO
-http://satelliteiptv.xyz:8080/live/max3228/wjikmw0es/16347.ts
-
-#EXTINF:-1 tvg-id="MYtest2" tvg-name="test2" tvg-logo="https://www.nicepng.com/png/full/326-3269982_download-icon-old-tv-in-png-television-uses.png" group-title="TOP TEST",SAMPLE VIDEO 2
-http://tvmalaysia.cc:80/136915/136915/6729
-
-#EXTINF:-1 tvg-id="MYtest3" tvg-name="test3" tvg-logo="https://www.nicepng.com/png/full/326-3269982_download-icon-old-tv-in-png-television-uses.png" group-title="TOP TEST",SAMPLE VIDEO 3
-http://ktiptv.co:443/live/3671/3671/25864.m3u8
-
-#EXTINF:-1 tvg-id="MYtest4" tvg-name="test4" tvg-logo="https://www.nicepng.com/png/full/326-3269982_download-icon-old-tv-in-png-television-uses.png" group-title="TOP TEST",SAMPLE VIDEO 4
-http://5gfksa.ltd:2052/live/55667788/88776655/83311.m3u8
-
-#EXTINF:-1 tvg-id="MYtest5" tvg-name="test5" tvg-logo="https://www.nicepng.com/png/full/326-3269982_download-icon-old-tv-in-png-television-uses.png" group-title="TOP TEST",SAMPLE VIDEO 5
-http://iptv12k.com:35461/8022022301/468985/724
-
 ===================================================================================
 ===================================================================================
 ===================================================================================
