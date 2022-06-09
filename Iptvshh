@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV1 HD" group-title="🇲🇾 MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101.png",TV1
+#EXTVLCOPT:http://axcestv.vip:8080
+http://axcestv.vip:8080/freeview/axcestv/431
+
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV1 HD" group-title="🇲🇾 MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101.png",TV1⁽ᴮᵃᶜᵏᵘᵖ⁾
+#EXTVLCOPT:http://axcestv.vip:8080
+http://axcestv.vip:8080/freeview/axcestv/432
+
+#EXTINF:-1 tvg-id="TV2" tvg-name="TV2" group-title="🇲🇾 MALAYSIA" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png",TV2
+#EXTVLCOPT:http://axcestv.vip:8080
+http://axcestv.vip:8080/freeview/axcestv/433
